@@ -1,7 +1,7 @@
 # OHO-HE-RABOTET
 PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
 
-
+тке
 а мне нрица
 куа
 оно рабоатет!
@@ -10,7 +10,7 @@ PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
 ячаспиотьб
 4ецуя\керщо
 цкзпжатпк5пу694мп5ывэ
-мы
+мытек
 ьмф
 ьжыкэиьжвлпзу
 кп
