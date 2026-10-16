@@ -10,7 +10,8 @@ PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
 ячаспиотьб
 4ецуя\керщо
 цкзпжатпк5пу694мп5ывэ
-мытек
+мытеквпф245
 ьмф
 ьжыкэиьжвлпзу
 кп
+print('Вась')
