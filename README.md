@@ -16,3 +16,4 @@ PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
 кп
 print('Вась')
 print('сисимасиси')
+print('сисимасиси')
