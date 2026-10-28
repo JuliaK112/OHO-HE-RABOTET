@@ -1,6 +1,5 @@
 # OHO-HE-RABOTET
 PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
-
 тке
 а мне нрица
 куа
@@ -17,3 +16,8 @@ PASCVETALIIIIIIIIIIIIIII RBLONI AND ГRYHIIIII VIXADILA HA BEREK KATOFALK
 print('Вась')
 print('сисимасиси')
 print('сисимасиси')
+
+
+
+шгпшошл
+ощзхщо
