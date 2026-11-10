@@ -30,3 +30,7 @@ print(666)
 
 
 print(662)
+
+x = 44
+e = 746
+print(x+e)
